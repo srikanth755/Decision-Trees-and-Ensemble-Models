@@ -11,3 +11,5 @@ Thirdly, AdaBoost is implemented using three different types of base classifiers
     -SVM with linear kernel and c = 0.1.  
 
 Accuracy, Precision, Recall, F1 Score and Confusion matrix are used to measure the performance of the Decision Tree Classifier.
+Results can be found in Results folder.
+
