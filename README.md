@@ -1,5 +1,7 @@
 # Decision-Trees-and-Ensemble-Models
 
+Use Python version == 3.9.18 and install the required libraries from requirements.txt
+
 The dataset for this project is PCA_MNIST, which consists of total 10 classes and 10 features.
 
 In the given notebook, firstly Decision Trees is implemented from scratch using Gini impurity and entropy. They are implemented with different depths for the Decision trees. 
